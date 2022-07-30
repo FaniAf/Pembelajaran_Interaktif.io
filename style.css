@@ -1,0 +1,17 @@
+.jumbotron {
+    height: 100vh;
+}
+
+#navbarNavAltMarkup :hover {
+    color: #ffbf00;
+
+}
+
+.border-buttom {
+    width: 20%;
+}
+
+a {
+    color: #ffbf00;
+}
+
